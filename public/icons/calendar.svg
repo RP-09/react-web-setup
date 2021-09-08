@@ -1,0 +1,77 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_1565" data-name="Group 1565">
+    <g id="Group_1564" data-name="Group 1564">
+      <path id="Path_281" data-name="Path 281" d="M14.125,1.25h-.75V0h-1.25V1.25H3.875V0H2.625V1.25h-.75A1.877,1.877,0,0,0,0,3.125v11A1.877,1.877,0,0,0,1.875,16h12.25A1.877,1.877,0,0,0,16,14.125v-11A1.877,1.877,0,0,0,14.125,1.25Zm.625,12.875a.626.626,0,0,1-.625.625H1.875a.626.626,0,0,1-.625-.625V5.875h13.5Zm0-9.5H1.25v-1.5A.626.626,0,0,1,1.875,2.5h.75V3.75h1.25V2.5h8.25V3.75h1.25V2.5h.75a.626.626,0,0,1,.625.625Z" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1567" data-name="Group 1567" transform="translate(2.391 7.211)">
+    <g id="Group_1566" data-name="Group 1566" transform="translate(0 0)">
+      <rect id="Rectangle_341" data-name="Rectangle 341" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1569" data-name="Group 1569" transform="translate(4.755 7.211)">
+    <g id="Group_1568" data-name="Group 1568" transform="translate(0 0)">
+      <rect id="Rectangle_342" data-name="Rectangle 342" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1571" data-name="Group 1571" transform="translate(7.133 7.211)">
+    <g id="Group_1570" data-name="Group 1570" transform="translate(0 0)">
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1573" data-name="Group 1573" transform="translate(9.51 7.211)">
+    <g id="Group_1572" data-name="Group 1572" transform="translate(0 0)">
+      <rect id="Rectangle_344" data-name="Rectangle 344" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1575" data-name="Group 1575" transform="translate(11.888 7.211)">
+    <g id="Group_1574" data-name="Group 1574" transform="translate(0 0)">
+      <rect id="Rectangle_345" data-name="Rectangle 345" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1577" data-name="Group 1577" transform="translate(2.391 9.589)">
+    <g id="Group_1576" data-name="Group 1576" transform="translate(0 0)">
+      <rect id="Rectangle_346" data-name="Rectangle 346" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1579" data-name="Group 1579" transform="translate(4.755 9.589)">
+    <g id="Group_1578" data-name="Group 1578" transform="translate(0 0)">
+      <rect id="Rectangle_347" data-name="Rectangle 347" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1581" data-name="Group 1581" transform="translate(7.133 9.589)">
+    <g id="Group_1580" data-name="Group 1580" transform="translate(0 0)">
+      <rect id="Rectangle_348" data-name="Rectangle 348" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1583" data-name="Group 1583" transform="translate(9.51 9.589)">
+    <g id="Group_1582" data-name="Group 1582" transform="translate(0 0)">
+      <rect id="Rectangle_349" data-name="Rectangle 349" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1587" data-name="Group 1587" transform="translate(4.755 11.86)">
+    <g id="Group_1586" data-name="Group 1586" transform="translate(0 0)">
+      <rect id="Rectangle_351" data-name="Rectangle 351" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1589" data-name="Group 1589" transform="translate(7.133 11.86)">
+    <g id="Group_1588" data-name="Group 1588" transform="translate(0 0)">
+      <rect id="Rectangle_352" data-name="Rectangle 352" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1591" data-name="Group 1591" transform="translate(9.51 11.86)">
+    <g id="Group_1590" data-name="Group 1590" transform="translate(0 0)">
+      <rect id="Rectangle_353" data-name="Rectangle 353" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1593" data-name="Group 1593" transform="translate(11.888 9.589)">
+    <g id="Group_1592" data-name="Group 1592" transform="translate(0 0)">
+      <rect id="Rectangle_354" data-name="Rectangle 354" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+  <g id="Group_1594" data-name="Group 1594" transform="translate(2.377 11.86)">
+    <g id="Group_1586-2" data-name="Group 1586" transform="translate(0 0)">
+      <rect id="Rectangle_351-2" data-name="Rectangle 351" width="1.656" height="1.656" fill="#f5f5f5"/>
+    </g>
+  </g>
+</svg>
